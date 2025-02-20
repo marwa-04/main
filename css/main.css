@@ -359,8 +359,8 @@ body {
 }
 /*end aout*/
 /*start contactt*/
-.contact{
- padding-top: var(--section-padding);
+.contact {
+  padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   background-color: var(--section-background);
 }
@@ -401,8 +401,8 @@ body {
 }
 /*end contact*/
 /*start footer*/
-.footer{
- background-color: var(--secondary-color);
+.footer {
+  background-color: var(--secondary-color);
   color: white;
   padding: 30px 10px;
   text-align: center;
@@ -413,3 +413,4 @@ body {
   color: var(--main-color);
 }
 /*end footer/
+/*commiting*/
